@@ -5,3 +5,5 @@
 *.pdb
 *.idb
 *.log
+*.vsidx
+*.opendb
