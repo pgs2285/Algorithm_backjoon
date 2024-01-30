@@ -21,3 +21,8 @@ https://github.com/pgs2285/Algorithm 에서 기초 학습 후, 이어지는 알�
 > 그래프의 연결 노드를 표기할때는 인접리스트(vector)를 사용하자. 노드의 개수가 많아질수록.
 
 **(Silver2)11724번 | 연결 요소의 개수** | [코드](./backjoon/11725_연결요소의개수/11724_연결요소의개수.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/15)
+
+## 이분탐색, 삼분탐색
+
+(삼분탐색)  
+**(Gold 4)11662번 | 민호와 강호** | [코드](./backjoon/11662_민호와_강호/11662_민호와_강호.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/16)
