@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1463_1로만들기_dp.cpp",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11662_민호와_강호", "11662_민호와_강호\11662_민호와_강호.vcxproj", "{387F1FBD-610C-48C2-AF48-F182061D690B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10610_30", "10610_30\10610_30.vcxproj", "{22408715-5455-42CB-836D-63DB281F3811}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM64 = Debug|ARM64
@@ -83,6 +85,18 @@ Global
 		{387F1FBD-610C-48C2-AF48-F182061D690B}.Release|x64.Build.0 = Release|x64
 		{387F1FBD-610C-48C2-AF48-F182061D690B}.Release|x86.ActiveCfg = Release|Win32
 		{387F1FBD-610C-48C2-AF48-F182061D690B}.Release|x86.Build.0 = Release|Win32
+		{22408715-5455-42CB-836D-63DB281F3811}.Debug|ARM64.ActiveCfg = Debug|x64
+		{22408715-5455-42CB-836D-63DB281F3811}.Debug|ARM64.Build.0 = Debug|x64
+		{22408715-5455-42CB-836D-63DB281F3811}.Debug|x64.ActiveCfg = Debug|x64
+		{22408715-5455-42CB-836D-63DB281F3811}.Debug|x64.Build.0 = Debug|x64
+		{22408715-5455-42CB-836D-63DB281F3811}.Debug|x86.ActiveCfg = Debug|Win32
+		{22408715-5455-42CB-836D-63DB281F3811}.Debug|x86.Build.0 = Debug|Win32
+		{22408715-5455-42CB-836D-63DB281F3811}.Release|ARM64.ActiveCfg = Release|x64
+		{22408715-5455-42CB-836D-63DB281F3811}.Release|ARM64.Build.0 = Release|x64
+		{22408715-5455-42CB-836D-63DB281F3811}.Release|x64.ActiveCfg = Release|x64
+		{22408715-5455-42CB-836D-63DB281F3811}.Release|x64.Build.0 = Release|x64
+		{22408715-5455-42CB-836D-63DB281F3811}.Release|x86.ActiveCfg = Release|Win32
+		{22408715-5455-42CB-836D-63DB281F3811}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
