@@ -14,7 +14,9 @@ https://github.com/pgs2285/Algorithm 에서 기초 학습 후, 이어지는 알�
 
 ## 동적 계획법 (DP)
 
-**(Silver2)1463번 | 1로 만들기** | [코드](./backjoon/1463_1로만들기_dp.cpp/1463_1로만들기_dp.cpp.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/14)
+**(Silver2)1463번 | 1로 만들기** | [코드](./backjoon/1463_1로만들기_dp.cpp/1463_1로만들기_dp.cpp.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/14)  
+
+**(Silver1)10844번 | 쉬운 계단수** | [코드](./backjoon/10844_쉬운계단수/10844_쉬운계단수.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/20)
 
 ## 그래프(BFS, DFS등)
 
