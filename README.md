@@ -34,4 +34,6 @@ https://github.com/pgs2285/Algorithm 에서 기초 학습 후, 이어지는 알�
 
 ## 그리디 알고리즘
 
-**(Silver 4)10610번 | 30** | [코드](./backjoon/10610_30/10610_30.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/18)
+**(Silver 4)10610번 | 30** | [코드](./backjoon/10610_30/10610_30.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/18)  
+**(Silver 3)10610번 | 병든나이트** | [코드](./backjoon/1783_병든나이트/1783_병든나이트.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/22)
+
