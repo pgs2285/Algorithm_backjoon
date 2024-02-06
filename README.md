@@ -1,5 +1,5 @@
 # Algorithm_backjoon
-적어도 매일 한문제씩 알고리즘 풀어보자!  
+매일 한문제씩은 알고리즘 풀어보기
 
 https://github.com/pgs2285/Algorithm 에서 기초 학습 후, 이어지는 알고리즘 문제풀이 repository
 
