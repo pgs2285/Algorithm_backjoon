@@ -1,4 +1,5 @@
 # Algorithm_backjoon
+적어도 매일 한문제씩 알고리즘 풀어보자!  
 
 https://github.com/pgs2285/Algorithm 에서 기초 학습 후, 이어지는 알고리즘 문제풀이 repository
 
@@ -18,24 +19,29 @@ https://github.com/pgs2285/Algorithm 에서 기초 학습 후, 이어지는 알�
 
 **(Silver1)10844번 | 쉬운 계단수** | [코드](./backjoon/10844_쉬운계단수/10844_쉬운계단수.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/20)
 
+**(Silver1)11057번 | 오르막수** | [코드](./backjoon/11057_오르막수/11057_오르막수.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/23)
+
 ## 그래프(BFS, DFS등)
 
 > 그래프의 연결 노드를 표기할때는 인접리스트(vector)를 사용하자. 노드의 개수가 많아질수록.
 > 단방향 그래프라는 말이 없으면, 양방향 그래프로 구현하자.
 
-**(Silver2)11724번 | 연결 요소의 개수** | [코드](./backjoon/11725_연결요소의개수/11724_연결요소의개수.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/15)  
+**(Silver2)11724번 | 연결 요소의 개수** | [코드](./backjoon/11725_연결요소의개수/11724_연결요소의개수.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/15)   
+
 **(Gold4)1707번 | 이분그래프** | [코드](./backjoon/1707_이분그래프/1707_이분그래프.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/19)
 
 ## 이분탐색, 삼분탐색
 
 (이분탐색)  
-**(Gold 4)2110번 | 공유기 설치** | [코드](./backjoon/2110_공유기설치/2110_공유기설치.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/21) **(나중에 다시풀어보기)**
+**(Gold 4)2110번 | 공유기 설치** | [코드](./backjoon/2110_공유기설치/2110_공유기설치.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/21) **(나중에 다시풀어보기)**    
+
+**(Silver 2)2110번 | 나무자르기** | [코드](./backjoon/2805_나무자르기/2805_나무자르기.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/24) 
 
 (삼분탐색)  
-**(Gold 4)11662번 | 민호와 강호** | [코드](./backjoon/11662_민호와_강호/11662_민호와_강호.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/16)
+**(Gold 4)2805번 | 민호와 강호** | [코드](./backjoon/11662_민호와_강호/11662_민호와_강호.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/16)
 
 ## 그리디 알고리즘
 
-**(Silver 4)10610번 | 30** | [코드](./backjoon/10610_30/10610_30.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/18)  
-**(Silver 3)10610번 | 병든나이트** | [코드](./backjoon/1783_병든나이트/1783_병든나이트.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/22)
+**(Silver 4)10610번 | 30** | [코드](./backjoon/10610_30/10610_30.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/18)   
 
+**(Silver 3)1783번 | 병든나이트** | [코드](./backjoon/1783_병든나이트/1783_병든나이트.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/22)
