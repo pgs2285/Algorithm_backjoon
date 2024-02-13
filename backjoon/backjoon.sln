@@ -27,6 +27,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2805_나무자르기", "280
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10451_순열사이클", "10451_순열사이클\10451_순열사이클.vcxproj", "{136B12F2-B85B-4B91-8AF8-0961F9C5250A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1931_회의실배정", "1931_회의실배정\1931_회의실배정.vcxproj", "{03BE74C7-55F3-4859-BFEA-6294A147A260}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM64 = Debug|ARM64
@@ -181,6 +183,18 @@ Global
 		{136B12F2-B85B-4B91-8AF8-0961F9C5250A}.Release|x64.Build.0 = Release|x64
 		{136B12F2-B85B-4B91-8AF8-0961F9C5250A}.Release|x86.ActiveCfg = Release|Win32
 		{136B12F2-B85B-4B91-8AF8-0961F9C5250A}.Release|x86.Build.0 = Release|Win32
+		{03BE74C7-55F3-4859-BFEA-6294A147A260}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{03BE74C7-55F3-4859-BFEA-6294A147A260}.Debug|ARM64.Build.0 = Debug|ARM64
+		{03BE74C7-55F3-4859-BFEA-6294A147A260}.Debug|x64.ActiveCfg = Debug|x64
+		{03BE74C7-55F3-4859-BFEA-6294A147A260}.Debug|x64.Build.0 = Debug|x64
+		{03BE74C7-55F3-4859-BFEA-6294A147A260}.Debug|x86.ActiveCfg = Debug|Win32
+		{03BE74C7-55F3-4859-BFEA-6294A147A260}.Debug|x86.Build.0 = Debug|Win32
+		{03BE74C7-55F3-4859-BFEA-6294A147A260}.Release|ARM64.ActiveCfg = Release|ARM64
+		{03BE74C7-55F3-4859-BFEA-6294A147A260}.Release|ARM64.Build.0 = Release|ARM64
+		{03BE74C7-55F3-4859-BFEA-6294A147A260}.Release|x64.ActiveCfg = Release|x64
+		{03BE74C7-55F3-4859-BFEA-6294A147A260}.Release|x64.Build.0 = Release|x64
+		{03BE74C7-55F3-4859-BFEA-6294A147A260}.Release|x86.ActiveCfg = Release|Win32
+		{03BE74C7-55F3-4859-BFEA-6294A147A260}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
