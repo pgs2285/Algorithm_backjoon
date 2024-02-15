@@ -37,7 +37,9 @@ https://github.com/pgs2285/Algorithm 에서 기초 학습 후, 이어지는 알�
 (이분탐색)  
 **(Gold 4)2110번 | 공유기 설치** | [코드](./backjoon/2110_공유기설치/2110_공유기설치.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/21) **(나중에 다시풀어보기)**    
 
-**(Silver 2)2805번 | 나무자르기** | [코드](./backjoon/2805_나무자르기/2805_나무자르기.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/24) 
+**(Silver 2)2805번 | 나무 자르기** | [코드](./backjoon/2805_나무자르기/2805_나무자르기.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/24) 
+
+**(Silver 2)1654번 | 랜선 자르기** | [코드](./backjoon/1654_랜선자르기/1654_랜선자르기.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/27) 
 
 (삼분탐색)  
 **(Gold 4)11662번 | 민호와 강호** | [코드](./backjoon/11662_민호와_강호/11662_민호와_강호.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/16)
