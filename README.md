@@ -19,7 +19,9 @@ https://github.com/pgs2285/Algorithm 에서 기초 학습 후, 이어지는 알�
 
 **(Silver1)10844번 | 쉬운 계단수** | [코드](./backjoon/10844_쉬운계단수/10844_쉬운계단수.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/20)
 
-**(Silver1)11057번 | 오르막수** | [코드](./backjoon/11057_오르막수/11057_오르막수.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/23)
+**(Silver1)11057번 | 오르막수** | [코드](./backjoon/11057_오르막수/11057_오르막수.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/23)  
+
+**(Silver1)9465번 | 스티커** | [코드](./backjoon/9465_스티커/9465_스티커.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/28)
 
 ## 그래프(BFS, DFS등)
 
@@ -39,7 +41,7 @@ https://github.com/pgs2285/Algorithm 에서 기초 학습 후, 이어지는 알�
 
 **(Silver 2)2805번 | 나무 자르기** | [코드](./backjoon/2805_나무자르기/2805_나무자르기.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/24) 
 
-**(Silver 2)1654번 | 랜선 자르기** | [코드](./backjoon/1654_랜선자르기/1654_랜선자르기.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/27) 
+**(Silver 2)1654번 | 랜선 자르기** | [코드](./backjoon/1654_랜선자르기/1654_랜선자르기.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/27)  
 
 (삼분탐색)  
 **(Gold 4)11662번 | 민호와 강호** | [코드](./backjoon/11662_민호와_강호/11662_민호와_강호.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/16)

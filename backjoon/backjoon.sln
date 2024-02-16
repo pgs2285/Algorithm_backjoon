@@ -31,6 +31,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1931_회의실배정", "193
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1654_랜선자르기", "1654_랜선자르기\1654_랜선자르기.vcxproj", "{ACB4AA4C-C33D-4D5F-9B86-3AC65735D643}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9465_스티커", "9465_스티커\9465_스티커.vcxproj", "{0CDA1835-76B6-453C-9920-934B78942734}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM64 = Debug|ARM64
@@ -209,6 +211,18 @@ Global
 		{ACB4AA4C-C33D-4D5F-9B86-3AC65735D643}.Release|x64.Build.0 = Release|x64
 		{ACB4AA4C-C33D-4D5F-9B86-3AC65735D643}.Release|x86.ActiveCfg = Release|Win32
 		{ACB4AA4C-C33D-4D5F-9B86-3AC65735D643}.Release|x86.Build.0 = Release|Win32
+		{0CDA1835-76B6-453C-9920-934B78942734}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{0CDA1835-76B6-453C-9920-934B78942734}.Debug|ARM64.Build.0 = Debug|ARM64
+		{0CDA1835-76B6-453C-9920-934B78942734}.Debug|x64.ActiveCfg = Debug|x64
+		{0CDA1835-76B6-453C-9920-934B78942734}.Debug|x64.Build.0 = Debug|x64
+		{0CDA1835-76B6-453C-9920-934B78942734}.Debug|x86.ActiveCfg = Debug|Win32
+		{0CDA1835-76B6-453C-9920-934B78942734}.Debug|x86.Build.0 = Debug|Win32
+		{0CDA1835-76B6-453C-9920-934B78942734}.Release|ARM64.ActiveCfg = Release|ARM64
+		{0CDA1835-76B6-453C-9920-934B78942734}.Release|ARM64.Build.0 = Release|ARM64
+		{0CDA1835-76B6-453C-9920-934B78942734}.Release|x64.ActiveCfg = Release|x64
+		{0CDA1835-76B6-453C-9920-934B78942734}.Release|x64.Build.0 = Release|x64
+		{0CDA1835-76B6-453C-9920-934B78942734}.Release|x86.ActiveCfg = Release|Win32
+		{0CDA1835-76B6-453C-9920-934B78942734}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
