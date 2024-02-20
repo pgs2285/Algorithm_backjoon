@@ -43,11 +43,11 @@ int main()
 	list.push_back(powDigit);
 	while (adjacants[powDigit] == 0)
 	{
-		adjacants[powDigit] = 1;		
+		adjacants[powDigit]++;		
 		powDigit = powEachDigit(powDigit, P);
 		list.push_back(powDigit);
 	}
-	for (int i = 0; i < list.size(); i++)
+	for (int i = 0; i < 300000; i++)
 	{
 		cnt++;
 		if (list[i] == powDigit)
@@ -55,5 +55,5 @@ int main()
 	}
 	if (N == powDigit)
 		cnt = 0;
-	cout << cnt;
+	std::cout << cnt;
 }

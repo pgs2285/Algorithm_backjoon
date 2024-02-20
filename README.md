@@ -34,6 +34,8 @@ https://github.com/pgs2285/Algorithm 에서 기초 학습 후, 이어지는 알�
 
 **(Silver3)10451번 | 순열 사이클** | [코드](./backjoon/10451_순열사이클/10451_순열사이클.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/25)   
 
+**(Gold3)9466번 | 텀프로젝트** | [코드](./backjoon/9466_텀프로젝트/9466_텀프로젝트.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/29)  
+
 ## 이분탐색, 삼분탐색
 
 (이분탐색)  
