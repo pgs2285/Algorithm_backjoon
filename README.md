@@ -54,4 +54,7 @@ https://github.com/pgs2285/Algorithm 에서 기초 학습 후, 이어지는 알�
 
 **(Silver 3)1783번 | 병든나이트** | [코드](./backjoon/1783_병든나이트/1783_병든나이트.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/22)  
 
-**(Silver 1)1931번 | 회의실 배정** | [코드](./backjoon/1931_회의실배정/1931_회의실배정.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/26)
+**(Silver 1)1931번 | 회의실 배정** | [코드](./backjoon/1931_회의실배정/1931_회의실배정.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/26)  
+
+## 분할 정복  
+**(Silver 2)1780번 | 종이의 개수** | [코드](./backjoon/1780_종이의개수/1780_종이의개수.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/30)  
