@@ -9,6 +9,8 @@ https://github.com/pgs2285/Algorithm 에서 기초 학습 후, 이어지는 알�
 
 **(Silver5)2751번 | 수 정렬하기2** | [코드](./backjoon/2751_Sort/2751_Sort.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/12)
 
+**(Silver 5)10815번 | 숫자 카드** | [코드](./backjoon/10815_숫자카드/10815_숫자카드.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/31)  
+
 ## 트리
 
 **(Silver1)1991번 | 트리순회** | [코드](./backjoon/1991_Tree_traversal/1991_Tree_traversal.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/13)
@@ -44,6 +46,8 @@ https://github.com/pgs2285/Algorithm 에서 기초 학습 후, 이어지는 알�
 **(Silver 2)2805번 | 나무 자르기** | [코드](./backjoon/2805_나무자르기/2805_나무자르기.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/24) 
 
 **(Silver 2)1654번 | 랜선 자르기** | [코드](./backjoon/1654_랜선자르기/1654_랜선자르기.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/27)  
+
+**(Silver 5)10815번 | 숫자 카드** | [코드](./backjoon/10815_숫자카드/10815_숫자카드.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/31)  
 
 (삼분탐색)  
 **(Gold 4)11662번 | 민호와 강호** | [코드](./backjoon/11662_민호와_강호/11662_민호와_강호.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/16)
