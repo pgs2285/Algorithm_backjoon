@@ -43,6 +43,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10815_숫자카드", "10815
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2193_이친수", "2193_이친수\2193_이친수.vcxproj", "{79F172FE-1F07-4B23-A8E3-D9C8AA104E98}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2873_롤러코스터", "2873_롤러코스터\2873_롤러코스터.vcxproj", "{C34D3A47-D882-4B4E-B9BF-A216CB23AA47}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM64 = Debug|ARM64
@@ -293,6 +295,18 @@ Global
 		{79F172FE-1F07-4B23-A8E3-D9C8AA104E98}.Release|x64.Build.0 = Release|x64
 		{79F172FE-1F07-4B23-A8E3-D9C8AA104E98}.Release|x86.ActiveCfg = Release|Win32
 		{79F172FE-1F07-4B23-A8E3-D9C8AA104E98}.Release|x86.Build.0 = Release|Win32
+		{C34D3A47-D882-4B4E-B9BF-A216CB23AA47}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{C34D3A47-D882-4B4E-B9BF-A216CB23AA47}.Debug|ARM64.Build.0 = Debug|ARM64
+		{C34D3A47-D882-4B4E-B9BF-A216CB23AA47}.Debug|x64.ActiveCfg = Debug|x64
+		{C34D3A47-D882-4B4E-B9BF-A216CB23AA47}.Debug|x64.Build.0 = Debug|x64
+		{C34D3A47-D882-4B4E-B9BF-A216CB23AA47}.Debug|x86.ActiveCfg = Debug|Win32
+		{C34D3A47-D882-4B4E-B9BF-A216CB23AA47}.Debug|x86.Build.0 = Debug|Win32
+		{C34D3A47-D882-4B4E-B9BF-A216CB23AA47}.Release|ARM64.ActiveCfg = Release|ARM64
+		{C34D3A47-D882-4B4E-B9BF-A216CB23AA47}.Release|ARM64.Build.0 = Release|ARM64
+		{C34D3A47-D882-4B4E-B9BF-A216CB23AA47}.Release|x64.ActiveCfg = Release|x64
+		{C34D3A47-D882-4B4E-B9BF-A216CB23AA47}.Release|x64.Build.0 = Release|x64
+		{C34D3A47-D882-4B4E-B9BF-A216CB23AA47}.Release|x86.ActiveCfg = Release|Win32
+		{C34D3A47-D882-4B4E-B9BF-A216CB23AA47}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
