@@ -38,6 +38,8 @@ https://github.com/pgs2285/Algorithm 에서 기초 학습 후, 이어지는 알�
 
 **(Gold3)9466번 | 텀프로젝트** | [코드](./backjoon/9466_텀프로젝트/9466_텀프로젝트.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/29)  
 
+**(Silver1)2667번 | 단지번호붙이기** | [코드](./backjoon/2667_단지번호붙이기/2667_단지번호붙이기.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/33) 
+
 ## 이분탐색, 삼분탐색
 
 (이분탐색)  
