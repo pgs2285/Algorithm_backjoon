@@ -13,7 +13,7 @@ https://github.com/pgs2285/Algorithm 에서 기초 학습 후, 이어지는 알�
 
 ## 트리
 
-**(Silver1)1991번 | 트리순회** | [코드](./backjoon/1991_Tree_traversal/1991 _Tree_traversal.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/13)
+**(Silver1)1991번 | 트리순회** | [코드](./backjoon/1991_Tree_traversal/1991_Tree_traversal.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/13)
 
 ## 동적 계획법 (DP)
 
@@ -63,4 +63,6 @@ https://github.com/pgs2285/Algorithm 에서 기초 학습 후, 이어지는 알�
 **(Silver 1)1931번 | 회의실 배정** | [코드](./backjoon/1931_회의실배정/1931_회의실배정.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/26)  
 
 ## 분할 정복  
-**(Silver 2)1780번 | 종이의 개수** | [코드](./backjoon/1780_종이의개수/1780_종이의개수.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/30)  
+**(Silver 2)1780번 | 종이의 개수** | [코드](./backjoon/1780_종이의개수/1780_종이의개수.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/30)   
+
+**(Silver 1)1992번 | 쿼드 트리** | [코드](./backjoon/1992_쿼드트리/1992_쿼드트리.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/34) 

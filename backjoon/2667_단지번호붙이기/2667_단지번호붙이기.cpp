@@ -49,8 +49,6 @@ int bfs(coords c, int N)
 				cnt++;
 			}
 		}
-
-
 	}
 	return cnt;
 }
