@@ -49,6 +49,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2667_단지번호붙이기"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1992_쿼드트리", "1992_쿼드트리\1992_쿼드트리.vcxproj", "{34A7FF3C-46B4-48E3-80A3-B13E11E69B64}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10816_숫자카드2", "10816_숫자카드2\10816_숫자카드2.vcxproj", "{0B91E5B3-C848-4B15-8E52-CD88F1524344}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM64 = Debug|ARM64
@@ -335,6 +337,18 @@ Global
 		{34A7FF3C-46B4-48E3-80A3-B13E11E69B64}.Release|x64.Build.0 = Release|x64
 		{34A7FF3C-46B4-48E3-80A3-B13E11E69B64}.Release|x86.ActiveCfg = Release|Win32
 		{34A7FF3C-46B4-48E3-80A3-B13E11E69B64}.Release|x86.Build.0 = Release|Win32
+		{0B91E5B3-C848-4B15-8E52-CD88F1524344}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{0B91E5B3-C848-4B15-8E52-CD88F1524344}.Debug|ARM64.Build.0 = Debug|ARM64
+		{0B91E5B3-C848-4B15-8E52-CD88F1524344}.Debug|x64.ActiveCfg = Debug|x64
+		{0B91E5B3-C848-4B15-8E52-CD88F1524344}.Debug|x64.Build.0 = Debug|x64
+		{0B91E5B3-C848-4B15-8E52-CD88F1524344}.Debug|x86.ActiveCfg = Debug|Win32
+		{0B91E5B3-C848-4B15-8E52-CD88F1524344}.Debug|x86.Build.0 = Debug|Win32
+		{0B91E5B3-C848-4B15-8E52-CD88F1524344}.Release|ARM64.ActiveCfg = Release|ARM64
+		{0B91E5B3-C848-4B15-8E52-CD88F1524344}.Release|ARM64.Build.0 = Release|ARM64
+		{0B91E5B3-C848-4B15-8E52-CD88F1524344}.Release|x64.ActiveCfg = Release|x64
+		{0B91E5B3-C848-4B15-8E52-CD88F1524344}.Release|x64.Build.0 = Release|x64
+		{0B91E5B3-C848-4B15-8E52-CD88F1524344}.Release|x86.ActiveCfg = Release|Win32
+		{0B91E5B3-C848-4B15-8E52-CD88F1524344}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
