@@ -27,6 +27,8 @@ https://github.com/pgs2285/Algorithm 에서 기초 학습 후, 이어지는 알�
 
 **(Silver1)9465번 | 스티커** | [코드](./backjoon/9465_스티커/9465_스티커.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/28)
 
+**(Silver1)2156번 | 포도주 시식** | [코드](./backjoon/2156_포도주시식/2156_포도주시식.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/36)
+  
 ## 그래프(BFS, DFS등)
 
 > 그래프의 연결 노드를 표기할때는 인접리스트(vector)를 사용하자. 노드의 개수가 많아질수록.
