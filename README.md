@@ -44,6 +44,8 @@ https://github.com/pgs2285/Algorithm 에서 기초 학습 후, 이어지는 알�
 
 **(Silver1)2667번 | 단지번호붙이기** | [코드](./backjoon/2667_단지번호붙이기/2667_단지번호붙이기.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/33) 
 
+**(Silver2)4693번 | 섬의 개수** | [코드](./backjoon/4963_섬의개수/4963_섬의개수.cpp) | [설명(Tistory)](https://jisung-it.tistory.com/37) 
+  
 ## 이분탐색, 삼분탐색
 
 (이분탐색)  
