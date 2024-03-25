@@ -55,6 +55,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2156_포도주시식", "215
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4963_섬의개수", "4963_섬의개수\4963_섬의개수.vcxproj", "{041234BE-0B82-4FEA-AAD2-7D5F6F047C68}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2606_바이러스", "2606_바이러스\2606_바이러스.vcxproj", "{14039C8E-30CE-443F-BDE1-02FBE4E28C9C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM64 = Debug|ARM64
@@ -377,6 +379,18 @@ Global
 		{041234BE-0B82-4FEA-AAD2-7D5F6F047C68}.Release|x64.Build.0 = Release|x64
 		{041234BE-0B82-4FEA-AAD2-7D5F6F047C68}.Release|x86.ActiveCfg = Release|Win32
 		{041234BE-0B82-4FEA-AAD2-7D5F6F047C68}.Release|x86.Build.0 = Release|Win32
+		{14039C8E-30CE-443F-BDE1-02FBE4E28C9C}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{14039C8E-30CE-443F-BDE1-02FBE4E28C9C}.Debug|ARM64.Build.0 = Debug|ARM64
+		{14039C8E-30CE-443F-BDE1-02FBE4E28C9C}.Debug|x64.ActiveCfg = Debug|x64
+		{14039C8E-30CE-443F-BDE1-02FBE4E28C9C}.Debug|x64.Build.0 = Debug|x64
+		{14039C8E-30CE-443F-BDE1-02FBE4E28C9C}.Debug|x86.ActiveCfg = Debug|Win32
+		{14039C8E-30CE-443F-BDE1-02FBE4E28C9C}.Debug|x86.Build.0 = Debug|Win32
+		{14039C8E-30CE-443F-BDE1-02FBE4E28C9C}.Release|ARM64.ActiveCfg = Release|ARM64
+		{14039C8E-30CE-443F-BDE1-02FBE4E28C9C}.Release|ARM64.Build.0 = Release|ARM64
+		{14039C8E-30CE-443F-BDE1-02FBE4E28C9C}.Release|x64.ActiveCfg = Release|x64
+		{14039C8E-30CE-443F-BDE1-02FBE4E28C9C}.Release|x64.Build.0 = Release|x64
+		{14039C8E-30CE-443F-BDE1-02FBE4E28C9C}.Release|x86.ActiveCfg = Release|Win32
+		{14039C8E-30CE-443F-BDE1-02FBE4E28C9C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
